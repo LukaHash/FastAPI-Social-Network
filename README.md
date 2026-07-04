@@ -13,12 +13,12 @@
 ## 📑 Table of Contents
 
 - [About](#-about)
-- [✨ Features](#-features)
+- [✨ Features](#features)
 - [🧰 Tech Stack](#-tech-stack)
 - [📋 Requirements](#-requirements)
 - [🚀 Installation](#-installation)
-- [⚙️ Configuration](#-configuration)
-- [▶️ Usage](#-usage)
+- [⚙️ Configuration](#%EF%B8%8F-configuration)
+- [▶️ Usage](#%EF%B8%8F-usage)
 - [🔍 How It Works](#-how-it-works)
 - [📁 Project Structure](#-project-structure)
 - [❓ FAQ / Troubleshooting](#-faq--troubleshooting)
