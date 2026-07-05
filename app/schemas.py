@@ -1,7 +1,7 @@
 from pydantic import  BaseModel
 from fastapi_users import  schemas
 import uuid
-# pudantic нужен для валидации запросов, их проверки
+# pydantic нужен для валидации запросов, их проверки
 
 
 # Тут у нас проверяется что запрос POST содержит именно тип str и имеет поля title и content

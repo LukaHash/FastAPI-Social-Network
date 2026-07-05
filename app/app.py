@@ -74,7 +74,7 @@ async  def upload_file(
         )
         session.add(post) # Функция говорит что пост готов к комиту
         await session.commit() # Пост комитится/сохраняется в ДБ
-        await session.refresh(post) # Перезагружаем сессию ДБ чтобы добавились автоматические данные (типо ID и когда было созданно)
+        await session.refresh(post) # Перезагружаем сессию ДБ чтобы добавились автоматические данные (типо ID и когда было создано)
         return post
     except Exception as e:
         raise  HTTPException(status_code=500, detail=str(e))
